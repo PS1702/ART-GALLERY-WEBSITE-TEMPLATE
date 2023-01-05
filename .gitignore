@@ -3,3 +3,4 @@ Hello/__pycache__/urls.cpython-310.pyc
 Home/__pycache__/models.cpython-310.pyc
 Home/__pycache__/urls.cpython-310.pyc
 Home/__pycache__/views.cpython-310.pyc
+db.sqlite3
